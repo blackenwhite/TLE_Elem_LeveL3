@@ -85,6 +85,7 @@ int add(int a, int b)
 // int dir[4][2] = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
 vector<vector<int>> dirs;
 
+
 void pr(vector<int> &v)
 {
     cout << "Printing vector---\n";
